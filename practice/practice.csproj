@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="beginners\" />
+    <Folder Include="intermediate\" />
+    <Folder Include="advanced\" />
+    <Folder Include="beginners\start\" />
+    <Folder Include="unit-testing\" />
+    <Folder Include="beginners\control-flow\" />
+    <Folder Include="beginners\arrays-lists\" />
+    <Folder Include="beginners\text\" />
+    <Folder Include="beginners\files\" />
+    <Folder Include="intermediate\classes\" />
+    <Folder Include="intermediate\inheritance\" />
+    <Folder Include="intermediate\interface\" />
+    <Folder Include="intermediate\polymorphism\" />
+    <Folder Include="advanced\delegates\" />
+    <Folder Include="advanced\dynamic\" />
+    <Folder Include="advanced\events\" />
+    <Folder Include="advanced\extensions\" />
+    <Folder Include="advanced\generics\" />
+    <Folder Include="advanced\interfaces\" />
+    <Folder Include="advanced\linq\" />
+    <Folder Include="advanced\lambda\" />
+    <Folder Include="advanced\nullable\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="beginners\control-flow\EmptyClass.cs" />
+    <Compile Remove="beginners\control-flow\CarSpeedLimit.cs" />
+  </ItemGroup>
+</Project>

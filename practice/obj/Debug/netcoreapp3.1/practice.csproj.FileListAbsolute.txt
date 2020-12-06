@@ -1,0 +1,12 @@
+/Users/ahsanghani/Projects/practice/practice/bin/Debug/netcoreapp3.1/practice.deps.json
+/Users/ahsanghani/Projects/practice/practice/bin/Debug/netcoreapp3.1/practice.runtimeconfig.json
+/Users/ahsanghani/Projects/practice/practice/bin/Debug/netcoreapp3.1/practice.runtimeconfig.dev.json
+/Users/ahsanghani/Projects/practice/practice/bin/Debug/netcoreapp3.1/practice.dll
+/Users/ahsanghani/Projects/practice/practice/bin/Debug/netcoreapp3.1/practice.pdb
+/Users/ahsanghani/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.csprojAssemblyReference.cache
+/Users/ahsanghani/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.AssemblyInfoInputs.cache
+/Users/ahsanghani/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.AssemblyInfo.cs
+/Users/ahsanghani/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.csproj.CoreCompileInputs.cache
+/Users/ahsanghani/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.dll
+/Users/ahsanghani/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.pdb
+/Users/ahsanghani/Projects/practice/practice/obj/Debug/netcoreapp3.1/practice.genruntimeconfig.cache
